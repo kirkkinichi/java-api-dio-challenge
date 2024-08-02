@@ -1,6 +1,7 @@
 # Desafio DIO - Java RESTful API
+Construção de uma API REST utilizando Java 17, Spring Boot 3, Spring Data JPA e OpenAPI.
 
-## Diagrama de Classes
+### Diagrama de Classes
 
 ```mermaid
 classDiagram
