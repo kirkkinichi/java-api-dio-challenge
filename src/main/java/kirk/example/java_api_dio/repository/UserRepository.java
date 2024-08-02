@@ -8,4 +8,5 @@ import kirk.example.java_api_dio.model.User;
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
     
+    boolean existsByPassport_PassportNumber(String passportNumber);
 }
